@@ -1,4 +1,4 @@
-# Installing-Firefox-to-Linux
+# Installing Firefox to Linux
 Installation of Mozilla Firefox to Linux OS
 
 
@@ -18,11 +18,11 @@ These were the very simple steps I used to install Mozilla Firefox search engine
 <h2>Operating Systems Used </h2>
 
 - Windows PC
-- Linux OS Virtual machine</b> (21H2)
+- Linux OS Virtual Machine</b> (21H2)
 
 <h2>Below are a list of steps and screenshots that demonstrate how I easily installed Mozilla Firefox.</h2>
 
-1. I opened the Linux command line. Installing applications on Linux demand a little more steps. I had to enter SUDO, which stands for "SUperuser Do" before the specific orders. There are also other words needed in order to make sure the commands are executed correctly. 
+1. I opened the Linux command line. Installing applications on Linux demand a little more steps. I had to enter SUDO, which stands for "Superuser Do" before the specific orders. There are also other words needed in order to make sure the commands are executed correctly. 
 
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/233703103-97c392a5-df7e-46bc-ad57-1790f31c66b1.png" height="80%" width="80%" alt="Step 1"/>
@@ -58,7 +58,7 @@ These were the very simple steps I used to install Mozilla Firefox search engine
 </p>
 <br />
 
-4.1 although Firefox was installed, I made sure to verify by running this command line. 
+4.1 Although Firefox was installed, I made sure to verify by running this command line. 
 
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/233705185-8e952093-f021-44f9-9a46-61509956b380.png" height="80%" width="80%" alt="Step 1"/>
@@ -67,4 +67,4 @@ These were the very simple steps I used to install Mozilla Firefox search engine
 </p>
 <br />
 
-Thanks for taking the time to look at my work.
+I'll be conducting more practice with Linux. It seems tricky, but like any skill, proper education and practice leads to improvement. Thanks for taking the time to look at my work.
