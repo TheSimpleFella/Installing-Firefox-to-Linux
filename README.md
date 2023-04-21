@@ -22,10 +22,46 @@ These were the very simple steps I used to install Mozilla Firefox search engine
 
 <h2>Below are a list of steps and screenshots that demonstrate how I easily installed Mozilla Firefox.</h2>
 
-1. Created a Resource Group. Selected the "Resource Group" tab.  
+1. I opened the Linux command line. Installing applications on Linux demand a little more steps. I had to enter SUDO, which stands for "SUperuser Do" before the specific orders. There are also other words needed in order to make sure the commands are executed correctly. 
 
 <p>
-<img src="" height="80%" width="80%" alt="Step 1"/>
+<img src="https://user-images.githubusercontent.com/126700220/233703103-97c392a5-df7e-46bc-ad57-1790f31c66b1.png" height="80%" width="80%" alt="Step 1"/>
+</p>
+
+</p>
+<br />
+
+2. Here I entered the appropriate command to install Mozilla. 
+
+<p>
+<img src="https://user-images.githubusercontent.com/126700220/233703778-e2bc9e66-4b17-475e-8047-311cada1ac55.png" height="80%" width="80%" alt="Step 1"/>
+</p>
+
+</p>
+<br />
+
+3. I entered "y" in order to approve the command.
+
+<p>
+<img src="https://user-images.githubusercontent.com/126700220/233704398-2641e620-4468-4b02-a842-70bd84185503.png" height="80%" width="80%" alt="Step 1"/>
+</p>
+
+</p>
+<br />
+
+4. The package was installed successfully!
+
+<p>
+<img src="https://user-images.githubusercontent.com/126700220/233704655-8ce16fc6-8055-41c4-8164-178f77e1db85.png" height="80%" width="80%" alt="Step 1"/>
+</p>
+
+</p>
+<br />
+
+4.1 although Firefox was installed, I made sure to verify by running this command line. 
+
+<p>
+<img src="https://user-images.githubusercontent.com/126700220/233705185-8e952093-f021-44f9-9a46-61509956b380.png" height="80%" width="80%" alt="Step 1"/>
 </p>
 
 </p>
