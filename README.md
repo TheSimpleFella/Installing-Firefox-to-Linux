@@ -49,7 +49,7 @@ These were the very simple steps I used to install Mozilla Firefox search engine
 </p>
 <br />
 
-4. The package was installed successfully!
+4. The package was installed successfully! Although Firefox was installed, I made sure to verify by running this command line. 
 
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/233704655-8ce16fc6-8055-41c4-8164-178f77e1db85.png" height="80%" width="80%" alt="Step 1"/>
@@ -58,7 +58,7 @@ These were the very simple steps I used to install Mozilla Firefox search engine
 </p>
 <br />
 
-4.1 Although Firefox was installed, I made sure to verify by running this command line. 
+4.1 Just checking to be sure.
 
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/233705185-8e952093-f021-44f9-9a46-61509956b380.png" height="80%" width="80%" alt="Step 1"/>
